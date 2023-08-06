@@ -79,7 +79,7 @@ This is a simple ERC20 token contract written in Solidity. The contract allows y
     }
 
 ## Walkover Video: 
-https://www.loom.com/share/997fc0b388734e7bb13f89422c24e3e5?sid=62c1c725-f5e0-4c5c-8c58-371045195eb1
+https://www.loom.com/share/5cd708a382ad47bda160272564096237?sid=12e45d11-13b2-445f-93cd-f16dc8c098a3
 
 ## Getting Started
 
